@@ -1,6 +1,5 @@
-- 👋 #Hi, I’m @nonsoo
-- 👀 I’m interested in front end web development and how layout on the web is integrated.
-- 🌱 I’m currently learning how to devleop IOS apps using **swift** and **react navtive**.
+- 👋 #Hi, I’m @nonsoo, a front end web developer interested in how different layouts are integrated on the web. 
+- 👀 I'm interested in exploring how different layouts for pages can be created on the web using tools such as flexbox and css grid. 
 - 💞️ I’m looking to collaborate on any front end web development projects that are mainly in react
 
 <!---
