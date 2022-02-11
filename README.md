@@ -1,9 +1,7 @@
-# 👋 Hi, I’m @nonsoo
-- A front end web developer interested in how different layouts are integrated on the web. 
-- 👀 I’m interested to building applications that are clean user interfaces that is unobtrusive and does not compromise on user experience. I’m slowly but surely branching into iOS development and learning swift how to build applications with SwiftUI.
-- 💞️ I’m looking to collaborate on any front end web development projects that are mainly in react.
+# Sup everyone, Nonso Here!
 
-<!---
-nonsoo/nonsoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a front-end web developer that likes breaking things -- haha! All jokes aside, I'm a fairly curious person that likes making things and I'm fairly interested in seeing how different layouts are integrated on the web. How can we take layouts that were originally for print and bring them to the world of the web?
+
+I’m also interested in building applications that have clean user interfaces which are unobtrusive and do not compromise on user experience -- People have busy lives and if a website is not intuitive, that bounce rate is going up!
+
+I think programming combines the best of creativity with technical skills!!! Also, I get to build whatever I want, whenever I want!
