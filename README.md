@@ -1,4 +1,4 @@
-# Sup everyone, Nonso Here!
+# Sup Everyone, Nonso Here!
 
 I'm a front-end web developer that likes breaking things -- haha! All jokes aside, I'm a fairly curious person that likes building stuff and I'm interested in seeing how different layouts are integrated on the web. How can we take layouts that were originally for print and bring them to the world of the web? How can we create custom experiences for users to explore?
 
